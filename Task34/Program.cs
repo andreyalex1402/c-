@@ -13,9 +13,5 @@ for (int i = 0; i < 4; i++)
         {
             a++;
         }
-        else 
-        {
-            a=a;
-        }
     }
 Console.WriteLine($"-> {a}");
